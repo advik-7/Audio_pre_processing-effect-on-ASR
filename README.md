@@ -1,5 +1,6 @@
 
 **Audio Preprocessing Effects on ASR Models**
+
 This repository explores various audio preprocessing techniques and their effects on Automatic Speech Recognition (ASR) performance. The primary goal is to investigate whether preprocessing, such as noise reduction, silence removal, or feature extraction, significantly enhances ASR model accuracy. Our experiments lead to the conclusion that while preprocessing can make minor improvements, the key to robust ASR performance lies in using stronger, well-fine-tuned models.
 
 Table of Contents
